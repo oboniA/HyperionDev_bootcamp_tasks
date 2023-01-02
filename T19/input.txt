@@ -1,0 +1,4 @@
+This is an optional task for T19.
+The task is about creating 1 text file 
+and adding some text.
+The count the number of characters, words, lines and total number of vowels.
